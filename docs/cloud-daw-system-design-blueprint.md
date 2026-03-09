@@ -1,6 +1,6 @@
 # Cloud DAW System Design Blueprint (Greenfield / Clean-Room)
 
-This blueprint is for building a production-grade cloud DAW **from scratch**. Existing DAW projects (including this repository) are only reference input for high-level ideas, never a source for direct code, copied structures, or lifted assets.
+This blueprint is for building a production-grade cloud DAW **from scratch**. Existing DAW projects are only reference input for high-level ideas, never a source for direct code, copied structures, or lifted assets.
 
 ## 1. Clean-room constraints (mandatory)
 
